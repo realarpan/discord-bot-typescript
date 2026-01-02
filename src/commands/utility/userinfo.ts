@@ -1,3 +1,9 @@
+/**
+ * User Info Command Module
+ * Displays detailed information about a Discord user
+ * @module commands/utility/userinfo
+ * @author realarpan
+ */
 import { SlashCommandBuilder, ChatInputCommandInteraction, EmbedBuilder } from 'discord.js';
 
 export const data = new SlashCommandBuilder()
