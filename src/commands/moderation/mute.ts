@@ -1,3 +1,9 @@
+/**
+ * Mute Command Module
+ * Mutes a member for a specified duration
+ * @module commands/moderation/mute
+ * @author realarpan
+ */
 import { SlashCommandBuilder, ChatInputCommandInteraction, PermissionFlagsBits } from "discord.js";
 
 export default {
