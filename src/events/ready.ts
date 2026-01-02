@@ -1,3 +1,9 @@
+/**
+ * Ready Event Handler
+ * Executes when the bot is ready and logs in
+ * @module events/ready
+ * @author realarpan
+ */
 import { Client } from "discord.js";
 import fs from "fs";
 import path from "path";
