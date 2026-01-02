@@ -1,3 +1,9 @@
+/**
+ * Command Handler Utility Module
+ * Loads and registers all command modules from the commands directory
+ * @module utils/commandHandler
+ * @author realarpan
+ */
 // src/utils/commandHandler.ts
 
 import { Client } from "discord.js";
