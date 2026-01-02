@@ -1,3 +1,10 @@
+/**
+ * Clear Command Module
+ * Bulk deletes messages from a Discord channel
+ * @module commands/moderation/clear
+ * @author realarpan
+ * @version 1.0.0
+ */
 import { SlashCommandBuilder, ChatInputCommandInteraction, PermissionFlagsBits } from "discord.js";
 
 export default {
