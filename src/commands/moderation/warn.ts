@@ -1,3 +1,9 @@
+/**
+ * Warn Command Module
+ * Issues warnings to members for violations
+ * @module commands/moderation/warn
+ * @author realarpan
+ */
 import { SlashCommandBuilder, PermissionsBitField } from "discord.js";
 import { addStrike, getStrikes } from "../../util/strikeManager";
 
