@@ -1,3 +1,10 @@
+/**
+ * Clear Strikes Command Module
+ * Clears all strike warnings for a member
+ * @module commands/moderation/clearstrikes
+ * @author realarpan
+ * @version 1.0.0
+ */
 import { SlashCommandBuilder, PermissionsBitField } from "discord.js";
 import { clearStrikes } from "../../util/strikeManager";
 
