@@ -1,3 +1,9 @@
+/**
+ * Unlock Channel Command Module
+ * Unlocks the current channel
+ * @module commands/moderation/unlock
+ * @author realarpan
+ */
 // src/commands/moderation/unlock.ts
 import { SlashCommandBuilder, PermissionsBitField } from "discord.js";
 
