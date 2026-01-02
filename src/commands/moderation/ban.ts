@@ -1,4 +1,10 @@
-//need to fix some bugs
+/**
+ * Ban Command Module
+ * Handles banning members from Discord guilds
+ * @module commands/moderation/ban
+ * @author realarpan
+ * @version 1.0.0
+ */
 import { ChatInputCommandInteraction, SlashCommandBuilder, PermissionFlagsBits } from 'discord.js';
 
 export const data = new SlashCommandBuilder()
