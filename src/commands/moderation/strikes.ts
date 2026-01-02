@@ -1,3 +1,9 @@
+/**
+ * Strikes Command Module
+ * Manages strike warnings for members
+ * @module commands/moderation/strikes
+ * @author realarpan
+ */
 import { SlashCommandBuilder, EmbedBuilder } from "discord.js";
 import { getStrikes } from "../../util/strikeManager";
 
