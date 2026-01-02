@@ -1,3 +1,9 @@
+/**
+ * Interaction Create Event Handler
+ * Handles slash commands and interactions
+ * @module events/interactionCreate
+ * @author realarpan
+ */
 import { Client, Interaction } from "discord.js";
 
 export default (client: Client) => {
