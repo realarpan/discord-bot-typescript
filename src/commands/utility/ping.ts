@@ -1,3 +1,9 @@
+/**
+ * Ping Command Module
+ * Checks bot response time and latency
+ * @module commands/utility/ping
+ * @author realarpan
+ */
 import { SlashCommandBuilder, ChatInputCommandInteraction } from 'discord.js';
 
 export const data = new SlashCommandBuilder()
