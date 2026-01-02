@@ -1,3 +1,10 @@
+/**
+ * Lock Channel Command Module
+ * Locks the current channel for everyone except specified roles
+ * @module commands/moderation/lock
+ * @author realarpan
+ * @version 1.0.0
+ */
 // src/commands/moderation/lock.ts
 import { SlashCommandBuilder, PermissionsBitField } from "discord.js";
 
