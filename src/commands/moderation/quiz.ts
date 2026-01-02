@@ -1,3 +1,9 @@
+/**
+ * Quiz Command Module
+ * Interactive trivia quiz game
+ * @module commands/moderation/quiz
+ * @author realarpan
+ */
 import {
     SlashCommandBuilder,
     ChatInputCommandInteraction,
