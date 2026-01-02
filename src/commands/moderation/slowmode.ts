@@ -1,3 +1,9 @@
+/**
+ * Slowmode Command Module
+ * Sets slowmode for the current channel
+ * @module commands/moderation/slowmode
+ * @author realarpan
+ */
 // src/commands/moderation/slowmode.ts
 import { SlashCommandBuilder, PermissionsBitField } from "discord.js";
 
