@@ -1,3 +1,9 @@
+/**
+ * Dictionary Command Module
+ * Provides word definitions via API
+ * @module commands/moderation/dictionary
+ * @author realarpan
+ */
 // dictionary.ts
 import { ChatInputCommandInteraction, SlashCommandBuilder, EmbedBuilder } from 'discord.js';
 import axios from 'axios';
