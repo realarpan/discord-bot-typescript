@@ -1,3 +1,9 @@
+/**
+ * Message Reaction Add Event Handler
+ * Handles emoji reactions added to messages
+ * @module events/messageReactionAdd
+ * @author realarpan
+ */
 // src/events/messageReactionAdd.ts
 import { Events } from "discord.js";
 
