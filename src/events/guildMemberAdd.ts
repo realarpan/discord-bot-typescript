@@ -1,3 +1,9 @@
+/**
+ * Guild Member Add Event Handler
+ * Executes when a new member joins the guild
+ * @module events/guildMemberAdd
+ * @author realarpan
+ */
 // src/events/guildMemberAdd.ts
 import { Events } from "discord.js";
 
