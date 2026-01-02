@@ -1,3 +1,9 @@
+/**
+ * Purge Command Module
+ * Deletes multiple messages at once
+ * @module commands/moderation/purge
+ * @author realarpan
+ */
 // src/commands/moderation/purge.ts
 import { SlashCommandBuilder, PermissionsBitField } from "discord.js";
 
