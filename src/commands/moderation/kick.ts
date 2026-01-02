@@ -1,3 +1,10 @@
+/**
+ * Kick Command Module
+ * Removes a member from the Discord guild
+ * @module commands/moderation/kick
+ * @author realarpan
+ * @version 1.0.0
+ */
 // kick.ts
 import { ChatInputCommandInteraction, SlashCommandBuilder, PermissionFlagsBits } from 'discord.js';
 
